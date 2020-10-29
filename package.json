@@ -1,0 +1,21 @@
+{
+    "name": "theme-turbo",
+    "displayName": "Turbo Theme",
+    "description": "Turbo Pascal inspired Theme",
+    "version": "0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Turbo Colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Turbo Colors-color-theme.json"
+            }
+        ]
+    }
+}
