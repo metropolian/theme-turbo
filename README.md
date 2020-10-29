@@ -1,5 +1,6 @@
 # TURBO THEME release 1
-## inspired from Turbo Editor since 1987
+## inspired from Turbo IDE since 1987
+
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
 ## Screenshot
@@ -20,6 +21,6 @@ ext install theme-turbo
 ```
 
 ## Auhor
-by iMakeProject
+by iMakeProject (metropolian@live.com)
 
 **Enjoy!**

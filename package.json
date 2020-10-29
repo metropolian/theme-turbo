@@ -2,7 +2,7 @@
     "name": "theme-turbo",
     "displayName": "Turbo Theme",
     "description": "Turbo Pascal inspired Theme",
-    "version": "0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -17,5 +17,11 @@
                 "path": "./themes/Turbo Colors-color-theme.json"
             }
         ]
-    }
+    },
+
+    "repository": "https://github.com/metropolian/theme-turbo",
+    "publisher": "iMakeProject",
+    "extensionPack": [
+        "imakeproject.theme-turbo"
+    ]
 }
